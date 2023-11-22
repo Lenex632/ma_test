@@ -464,8 +464,8 @@ id товара из сайта,наименование,ссылка на то�
 592289043,"Конфеты Славянка Левушка, 1кг",https://online.metro-cc.ru/products/1kg-konfety-levushka-slavyanka,409,,СЛАВЯНКА
 407565,"Шоколад Dove молочный, 90г",https://online.metro-cc.ru/products/art_548125,139,,DOVE
 594147239,"Печенье Любятово топленое молоко, 444г",https://online.metro-cc.ru/products/444g-pechene-lyubyatovo-toplenoe-moloko,136,,ЛЮБЯТОВО
-409288,"Мармелад Fruittella Медвежата, 70г",https://online.metro-cc.ru/products/marmelad-fruittella-medvezhata-70g,71.9,63.9,FRUITTELLA
 661335,"Шоколад гречишный Nature's Own Factory в ассортименте 5г х 52шт, 260г",https://online.metro-cc.ru/products/grechishnyj-natures-own-factory-v-assortimente-52x5g,2399,,NATURE'S OWN FACTORY
+409288,"Мармелад Fruittella Медвежата, 70г",https://online.metro-cc.ru/products/marmelad-fruittella-medvezhata-70g,71.9,63.9,FRUITTELLA
 537684999,"Вафли Яшкино сливочные, 200г",https://online.metro-cc.ru/products/200g-vafli-yashkino-slivochnye,68.9,,ЯШКИНО
 121639,"Батончик Nestle Nuts шоколадный, 50г",https://online.metro-cc.ru/products/nestle-nuts-orehovyj-tyuning-50-g-420032,61.9,,NUTS
 554569,"Пряник Ясная поляна Тульский с апельсиновой начинкой, корицей и цукатам, 140г",https://online.metro-cc.ru/products/tulskij-s-apelsinom-140g,51.9,37.9,ЯСНАЯ ПОЛЯНА
@@ -999,3 +999,107 @@ id товара из сайта,наименование,ссылка на то�
 601480054,"Шоколад молочный Royal Forest кокосовое молоко, 20г",https://online.metro-cc.ru/products/20g-shokolad-molochnyy-royal-forest-kokosovoe-moloko,68.9,61.9,ROYAL FOREST
 539401,"Шоколад Lindt Excellence темный лимон и имбирь, 100г",https://online.metro-cc.ru/products/temnyj-lindt-excellence-limon-imbir-100g,309,,LINDT
 395718,"Шоколад Капля Радуги молочный фигурный на палочке, 24г",https://online.metro-cc.ru/products/shokolad-molochnyj-kaplya-radugi-figurnyj-na-palochke-24g,75.9,,КАПЛЯ РАДУГИ
+620912,"Конфеты Eco botanica Смузи черника и банан, 150г",https://online.metro-cc.ru/products/150g-eco-botanica-smuzi-chernik-banan,143,,ECO BOTANICA
+596068327,"Чипсы Turbo Diesel со вкусом сметана и зелень, 75г",https://online.metro-cc.ru/products/75g-chipsy-turbo-diesel-so-vkusom-smetana-i-zelen,67.9,,TURBO DIESEL
+618982,"Шоколад Красный Октябрь Аленка целый фундук и карамель, 165г",https://online.metro-cc.ru/products/165g-shok-alenka-krasnyj-oktyabr-fund-karam,177,,АЛЕНКА
+49088727,"Чипсы Mr Potato Острый и пряный вкус, 160г",https://online.metro-cc.ru/products/160g-chipsy-mr-potato-ostryy-i-pryanyy-vkus,299,,MR POTATO
+539367,"Драже Tic Tac Ягодный микс со вкусом малины и голубики, 16г",https://online.metro-cc.ru/products/drazhe-tic-tac-reg-yagodnyj-miks-16g,63.9,,TIC TAC
+561970,"Конфеты Milka шоколадные с молочной начинкой, 110г",https://online.metro-cc.ru/products/konfety-milka-iz-molochnogo-shokolada-s-molochnoj-nachinkoj-110g,289,,MILKA
+537537054,"Шоколад Красный Октябрь Слава темный пористый, 75г",https://online.metro-cc.ru/products/75g-shokolad-slava-krasnyy-oktyabr-temnyy-poristyy,186,,КРАСНЫЙ ОКТЯБРЬ
+600733692,"Мармелад карандаш Chi-wa-wa Клубника сладкий, 80г",https://online.metro-cc.ru/products/80g-marmelad-chi-wa-wa-karandash-klubnika-sladkiy,93.9,,CHI-WA-WA
+514520,"Палочки Деревенские Гренки с прованскими травами, 100г",https://online.metro-cc.ru/products/grenki-dobrynov-palochki-s-provanskimi-travami-100-g,132,,ДЕРЕВЕНСКИЕ ГРЕНКИ
+454984126,"Чипсы Lay's Краб, 37г",https://online.metro-cc.ru/products/37g-chipsy-lays-krab,49.99,,LAY'S
+614192,"Драже Skittles Кисломикс, 140г",https://online.metro-cc.ru/products/drazhe-skittles-kislomiks-140g,134,,SKITTLES
+528078,"Мармелад Sweetbox Ми-ми-мишки с игрушкой, 10г",https://online.metro-cc.ru/products/s-igrushkoj-sweet-box-mi-mi-mishki-10-g,182,139,SWEETBOX
+573943602,"Пирожные Vicenzi Bocconcini слоеные с малиновой начинкой, 90г",https://online.metro-cc.ru/products/90g-pirozhnye-vicenzi-bocconcini-s-malinovoy-nachinkoy,281,,VICENZI
+656006,"Шоколад Россия Щедрая душа молочный шоколад с фундуком и изюмом, 82г",https://online.metro-cc.ru/products/82g-rossiya-schedraya-dusha-funduk-izyum,61.9,54.9,РОССИЯ ЩЕДРАЯ ДУША
+582889,"Шоколад The Belgian молочный без сахара, 100г",https://online.metro-cc.ru/products/the-belgian-molochnyj-bez-sahara-100g,274,,BELGIAN
+616373,"Конфеты Красный Октябрь Mega drive, 210г",https://online.metro-cc.ru/products/210g-krasnyj-oktyabr-mega-drajv,191,,КРАСНЫЙ ОКТЯБРЬ
+601504907,"Шоколад Lambertz с корицей, 100г",https://online.metro-cc.ru/products/100g-shokolad-lambertz-s-koritsey,269,,LAMBERTZ
+596085083,"Начос Carambas сладкий тайский перец, 150г",https://online.metro-cc.ru/products/150g-nachos-carambas-sladkiy-tayskiy-perets,95.9,79.9,CARAMBAS
+217795073,"Попкорн Holy Corn готовый морская соль, 20г",https://online.metro-cc.ru/products/20g-gotovyy-popkorn-holy-corn-morskaya-sol,79.9,,HOLY CORN
+359093,"Батончик Zentis Belmarzipan Noudat марципановый, 40г",https://online.metro-cc.ru/products/belnuga-marcipanovyj-s-nugoj-60-g,146,84.9,ZENTIS
+119609,"Жевательная резинка Orbit Клубника и банан (13.6г х 10шт), 136г",https://online.metro-cc.ru/products/orbit-white-klubnika-banan-10sht,369,249,ORBIT
+413388579,"RIOBA Шоколад молочный с фундуком 31%, 100г",https://online.metro-cc.ru/products/100g-shokolad-rioba-31-molochnyy-s-fundukom,111,,RIOBA
+1464845,"Чипсы Mojno Батат с сыром чеддер, 75г",https://online.metro-cc.ru/products/chipsy-mojno-batat-s-syrom-chedder-75g,140,119,MOJNO
+392746,"Шоколад Dove молочный с фундуком и изюмом, 90г",https://online.metro-cc.ru/products/dove-molochnyj-s-fundukom-izyumom-90-g,139,,DOVE
+98880485,"Маршмеллоу Guandy Candy шоколадно-ванильный, 200г",https://online.metro-cc.ru/products/200g-marshmellou-guandy-shokoladno-vanilnyy,259,,GUANDY
+601655659,"Шоколад Alpen Gold горький 70%, 80г",https://online.metro-cc.ru/products/80g-shokolad-gorkiy-alpen-gold-70,85.9,,ALPEN GOLD
+138715,"Жевательная резинка Orbit клубника банан, 14г",https://online.metro-cc.ru/products/orbit-klubnika-banan-136g,37.49,,ORBIT
+615209,"Шоколад Nature's Own Factory гречишный с кокосом, 20г",https://online.metro-cc.ru/products/grechishnyj-s-kokosom-nature-039s-own-factory-24g,116,,NATURE'S OWN FACTORY
+596256868,"Шоколад Alpen Gold Oreo классический чизкейк, 90г",https://online.metro-cc.ru/products/90g-shokolad-alpen-gold-oreo-klassicheskiy-chizkeyk,85.9,,ALPEN GOLD
+585121,"Торт Бабаевский Белочка вафельный, 250г",https://online.metro-cc.ru/products/tort-vafelnyj-babaevskij-belochka-250g,223,,БАБАЕВСКИЙ
+656046,"Драже жевательные Mentos фрукты, 95г",https://online.metro-cc.ru/products/95g-drazhe-zhevatelnye-mentos-frukty,127,,MENTOS
+549780,"Попкорн Holy Corn шоколад и кокос, 50г",https://online.metro-cc.ru/products/art_664398,107,99.9,HOLY CORN
+615266,"Шоколад Nature's Own Factory гречишный белый, 20г",https://online.metro-cc.ru/products/grechishnyj-belyj-nature-039s-own-factory-24g,108,,NATURE'S OWN FACTORY
+402471,"Чипсы Хрустящий картофель со вкусом сметаны и лука, 40г",https://online.metro-cc.ru/products/40g-hrust-kart-sm-luk,34.99,29.9,ХРУСТЯЩИЙ КАРТОФЕЛЬ
+299618494,"Шоколад Nature's Own Factory гречишный детский молочный с бананом, 20г",https://online.metro-cc.ru/products/20g-grechishnyy-shok-natures-factory-detskiy-moloch-s-bananom,116,,NATURE'S OWN FACTORY
+601247078,"Жевательная резинка Orbit прохладная мята, 14г",https://online.metro-cc.ru/products/136g-zhevatelnaya-rezinka-orbit-prohladnaya-myata-226957,37.49,,ORBIT
+491727,"Жевательная резинка Orbit White Сочное яблоко без сахара, 20г",https://online.metro-cc.ru/products/orbit-xxl-belosnezhnyj-sochnoe-yabloko-20g-620592,51.9,,ORBIT
+573156,"Шоколад Alpen Gold с соленым миндалем и карамелью, 85г",https://online.metro-cc.ru/products/alpen-gold-solenyj-mindal-karamel-85g,85.9,69.9,ALPEN GOLD
+542439,"Пастила Белевские сладости Заварная ваниль, 250г",https://online.metro-cc.ru/products/pastila-belevskaya-pastila-zavarnaya-vanil-250-g,209,,БЕЛЕВСКИЕ СЛАДОСТИ
+49088737,"Чипсы Mr Potato Острый и пряный вкус, 40г",https://online.metro-cc.ru/products/40g-chipsy-mr-potato-ostryy-i-pryanyy-vkus,100.9,,MR POTATO
+600733697,"Мармелад ремешок Chi-wa-wa Мульти кислый, 80г",https://online.metro-cc.ru/products/80g-marmelad-chi-wa-wa-remeshok-multi-kislyy,93.9,,CHI-WA-WA
+605284585,"Драже Toybox Чебурашка с шоколадом в сахарной оболочке, 25г",https://online.metro-cc.ru/products/drazhe-toybox-cheburashka-s-shokoladom-v-saharnoy-obolochke-25g,43.99,,TOYBOX
+616049,"Пастила Petit Appetit тыква, апельсин и клетчатка семян чиа, 104г",https://online.metro-cc.ru/products/104g-pastila-petit-appetit-tykv-apels-sem-chia,91.9,,PETIT APPETIT
+76200450,"Батончик шоколадный Snickers белый 5 x 40.5г, 202г",https://online.metro-cc.ru/products/5h405g-shokoladnyy-batonchik-snickers-belyy,205,,SNICKERS
+550292091,"Снеки Cheetos ветчина-сыр, 50г",https://online.metro-cc.ru/products/sneki-cheetos-vetchina-syr-50g,54.9,,CHEETOS
+402781,"Чипсы Хрустящий картофель в ломтиках со вкусом сыра, 40г",https://online.metro-cc.ru/products/40g-hrust-kart-syr,34.99,29.9,ХРУСТЯЩИЙ КАРТОФЕЛЬ
+649886,"Жевательная резинка Orbit Тропическое манго, 14г",https://online.metro-cc.ru/products/orbit-tropicheskoe-mango-136g,37.49,,ORBIT
+566744,"Печенье Oreo с какао и начинкой со вкусом клубники, 95г",https://online.metro-cc.ru/products/oreo-s-kakao-nachinkoj-so-vkusom-klubniki-95g,86.9,,OREO
+402584,"Чипсы Хрустящий картофель со вкусом сметаны и лука, 70г",https://online.metro-cc.ru/products/hrustyaschij-kartofel-so-vkusom-smetany-luka-v-lomtikah-70g,59.9,53.9,ХРУСТЯЩИЙ КАРТОФЕЛЬ
+652136,"Шоколад Красный Октябрь Аленка с соленым крекером, 85г",https://online.metro-cc.ru/products/90g-alyonka-goroshkom,79.9,76.9,АЛЕНКА
+554932,"Хрустящие шарики L.O.L. Surprise! с кремом и игрушка в капсуле в форме яйца, 15г",https://online.metro-cc.ru/products/hrustyaschie-shariki-lol-s-kremom,147,,L.O.L.
+425629312,"Кольца луковые Minifree сыр, 45г",https://online.metro-cc.ru/products/45g-lukovye-koltsa-minifree-syr,31,,MINIFREE
+600733747,"Мармелад ремешок Chi-wa-wa Тропик кислый, 15г",https://online.metro-cc.ru/products/15g-marmelad-chi-wa-wa-remeshok-tropik-kislyy,22.99,,CHI-WA-WA
+3715886,"Соломка картофельная Pomsticks морская соль-перец, 100г",https://online.metro-cc.ru/products/100g-kartof-solomka-pomsticks-morsolperets,118,,POMSTICKS
+256701,"Конфеты Mars Minis шоколадные, 2.7кг",https://online.metro-cc.ru/products/shokoladnye-mars-minis-27kg,2629,,MARS
+463390,"Вафли Акульчев венские с абрикосом, 50г",https://online.metro-cc.ru/products/akulchev-venskie-s-abrikosom-50g,39,,АКУЛЬЧЕВ
+11728228,"Драже жевательные Mentos Кола, 37.5г",https://online.metro-cc.ru/products/375g-zhevatelnye-drazhe-mentos-kola,60.9,,MENTOS
+454873466,"Чипсы Lay's Сметана и зелень, 37г",https://online.metro-cc.ru/products/37g-chipsy-lays-smetana-zelen,49.99,,LAY'S
+140696,"Конфеты Rondo арбуз освежающие драже, 30г",https://online.metro-cc.ru/products/drazhe-rondo-arbuz-osvezhayuschie-30g,38.99,,RONDO
+600989747,"Жевательная резинка Trident Max Мята, 23г",https://online.metro-cc.ru/products/23g-zhevatelnaya-rezinka-trident-max-myata-226627,60.9,,TRIDENT
+600992857,"Карамель Chupa Chups B-Pop со вкусом тропических фруктов, 15г",https://online.metro-cc.ru/products/15g-karamel-chupa-chups-b-pop-tropicheskiy-226587,36.49,,CHUPA CHUPS
+427133,"Шоколад Красный Октябрь Аленка молочный, 60г",https://online.metro-cc.ru/products/krasnyj-oktyabr-alenka-molochnyj-60g-581623,84.9,,АЛЕНКА
+605286055,"Жевательный мармелад Приколюшки PIZZA от шефа, 18г",https://online.metro-cc.ru/products/18g-zhevatelnyy-marmelad-prikolyushki-pizza-ot-shefa-235578,29.5,,ПРИКОЛЮШКИ
+49088732,"Чипсы Mr Potato Оригинальные, 40г",https://online.metro-cc.ru/products/40g-chipsy-mr-potato-originalnye,100.9,,MR POTATO
+375379,"Батончик Grondard Яблоко и корица, 50г",https://online.metro-cc.ru/products/grondard-yabloko-korica-50g,84.9,,GRONDARD
+527758,"Конфеты Rondo с ароматом лимона и мяты освежающие, 30г",https://online.metro-cc.ru/products/drazhe-rondo-limon-30g-653521,38.99,,RONDO
+480607,"Печенье Oreo шоколадное, 95г",https://online.metro-cc.ru/products/art_616728,86.9,,OREO
+244884,"Драже Rondo клубника, мята, 30г",https://online.metro-cc.ru/products/drazhe-rondo-klubnika-myata-30g-511519,38.99,,RONDO
+206665,"Сушка АВА Челночок, 300г",https://online.metro-cc.ru/products/sushka-chelnochok-300g,70.9,,АВА
+106289,"Жевательная резинка Orbit Сочный арбуз, 14г",https://online.metro-cc.ru/products/orbit-sochnyj-arbuz-136g,37.49,,ORBIT
+604936322,"Чипсы Easy Peasy сыр-сейшен, 50г",https://online.metro-cc.ru/products/chipsy-easy-peasy-syr-seyshen-50g,69.9,62.9,EASY PEASY
+615191,"Жевательная резинка Orbit Refreshers тропический микс, 16г",https://online.metro-cc.ru/products/orbit-tropik-refreshers16g-120113,62.9,,ORBIT
+614702,"Жевательная резинка Orbit Refreshers мята, 16г",https://online.metro-cc.ru/products/orbit-myata-refreshers16g,62.9,,ORBIT
+170459,"Конфеты жевательные Fruittella Ассорти с фруктовым соком, 41г",https://online.metro-cc.ru/products/fruittella-assorti-41g-147692,50.9,,FRUITTELLA
+605287820,"Зефир Зефирюшки Три кота воздушный для какао и десертов, 15г",https://online.metro-cc.ru/products/15g-zefir-tri-kota-zefiryushki-vozdush-dlya-kakao-i-desertov,34.99,,ЗЕФИРЮШКИ
+84149,"Жевательная резинка Orbit White освежающая мята без сахара, 14г",https://online.metro-cc.ru/products/orbit-osvezhayuschaya-myata-136g-14887,37.49,,ORBIT
+601654479,"Печенье Nyakers имбирное, 400г",https://online.metro-cc.ru/products/400g-pechene-nyakers-imbirnoe-zhb,979,,NYAKERS
+134170,"Набор конфет Ferrero Collection, 260г",https://online.metro-cc.ru/products/ferrero-collection-raffaello-ferrero-rocher-ferrero-rondnoir-2694g,1509,,FERRERO
+509160,"Драже Jelly Belly Ice Cream жевательные, 70г",https://online.metro-cc.ru/products/art_637515,319,,JELLY BELLY
+601245528,"Жевательная резинка Wrigley's Doublemint мята, 14г",https://online.metro-cc.ru/products/136g-zhevatelnaya-rezinka-wrigleys-doublemint-myata-226925,30.49,,WRIGLEY'S
+600702667,"Жевательный мармелад Конфитой Гамми фрут Глаз с начинкой, 12г х 50 шт",https://online.metro-cc.ru/products/12g-zhevatelnyy-marmelad-konfitoy-gammi-frut-glaz,1074.5,,КОНФИТОЙ
+609254,"Батончик Snickers Криспер шоколадный, 60г x 168 шт",https://online.metro-cc.ru/products/3-20g-snickers-krisper-118427,8398.32,,SNICKERS
+601245323,"Подарок новогодний Акконд Морозкины сны, 500г",https://online.metro-cc.ru/products/500g-novogodniy-podarok-akkond-morozkiny-sny,519,,АККОНД
+601245363,"Набор подарочный Мосупак Три кота подарок домик, 400г",https://online.metro-cc.ru/products/400g-pn-mosupak-podarok-domik-tri-kota,449,,МОСУПАК
+601246943,"Набор подарочный Лёвушка детям ассорти №4, 1.201кг",https://online.metro-cc.ru/products/1201kg-pn-lyovushka-detyam-assorti-4,1109,,ЛЁВУШКА
+601245428,"Набор подарочный Славянка любимый подарок №1, 2кг",https://online.metro-cc.ru/products/2kg-pn-slavyanka-lyubimyy-podarok-1,1899,,СЛАВЯНКА
+651611,"Драже Jelly Belly Fruit Mix, 70г",https://online.metro-cc.ru/products/70g-drazhe-jelly-belly-fruit-mix,319,,JELLY BELLY
+311827787,"Конфеты Guylian шоколадные опус, 180г",https://online.metro-cc.ru/products/180g-konfety-guylian-shokoladnye-opus,839,,GUYLIAN
+605287265,"Шоколад горький Победа вкуса какао 72%, 100г",https://online.metro-cc.ru/products/100g-shokolad-gorkiy-pobeda-vkusa-72-kakao,119,,ПОБЕДА ВКУСА
+601434166,"RIOBA Печенье сдобное с пряностями порционное (5.5г x 200шт), 1.1кг",https://online.metro-cc.ru/products/200shth55g-pechene-rioba-sdobnoe-s-pryanostyami-ports,849,,RIOBA
+605286385,"Конфеты Победа вкуса трюфели без сахара, 150г",https://online.metro-cc.ru/products/150g-konfety-tryufeli-pobeda-vkusa-bsahara,189,,ПОБЕДА ВКУСА
+604906800,"Конфеты Счастье пралине №2, 200г x 4шт",https://online.metro-cc.ru/products/konfety-schaste-praline-2-200g-x-4sht,799,699,СЧАСТЬЕ
+604905250,"Конфеты Счастье коллекция мини-пралине ассорти, 200г",https://online.metro-cc.ru/products/konfety-schaste-kollektsiya-mini-praline-assorti-200g-x-20sht,999,,СЧАСТЬЕ
+557000,"Конфеты Красный Октябрь Красная Шапочка, 1кг",https://online.metro-cc.ru/products/krasnaya-shapochka-1000g,1019,,КРАСНЫЙ ОКТЯБРЬ
+484379,"Подарок новогодний Любимые с детства Новогодняя сказка, 500г",https://online.metro-cc.ru/products/novogodnij-lyubimye-s-detstva-novogodnyaya-skazka-500-gr,719,,ЛЮБИМЫЕ С ДЕТСТВА
+528613,"Конфеты Chocmod Truffettes de France шоколадные трюфели, 500г",https://online.metro-cc.ru/products/shokoladnye-konfety-chocmod-tryufeli-french-x-mas-500g,1469,,CHOCMOD
+214605,"Конфеты Ameri шоколадные с начинкой пралине, 250г",https://online.metro-cc.ru/products/konfety-shokoladnye-ameri-s-praline-250-g,649,,AMERI
+579102,"Подарок новогодний Любимые с детства Красная стрела, 600г",https://online.metro-cc.ru/products/podarok-novogodnij-krasnaya-strela-lyubimye-s-detstva-600g,869,,ЛЮБИМЫЕ С ДЕТСТВА
+509303,"Драже Jelly Belly 20 flavours ассорти 20 вкусов жевательные, 70г",https://online.metro-cc.ru/products/zhevatelnoe-drazhe-jelly-belly-20-flavours-assorti-20-vkusov-70g,319,,JELLY BELLY
+605574734,"Набор подарочный Alpen Gold Большой микс, 430г",https://online.metro-cc.ru/products/nabor-podarochnyy-alpen-gold-bolshoy-miks-430g,699,,ALPEN GOLD
+601241318,"Набор подарочный Мосупак чемоданчик подарок Чебурашка, 400г",https://online.metro-cc.ru/products/400g-pn-mosupak-podarok-chemodanchik-cheburashka,449,,МОСУПАК
+605284350,"Конфеты вафельные Победа вкуса Chsrged в молочном шоколаде без сахара, 150г",https://online.metro-cc.ru/products/150g-konf-vafeln-100-charged-pobeda-vkusa-v-mol-shok-bsah,169,,ПОБЕДА ВКУСА
+605288035,"Конфеты Победа вкуса трюфели с темным какао, 180г",https://online.metro-cc.ru/products/180g-konfety-tryufeli-pobeda-s-tyomnym-kakao,289,,ПОБЕДА ВКУСА
+605531656,"Конфеты Merci ассорти зимних вкусов, 250г",https://online.metro-cc.ru/products/konfety-merci-assorti-zimnih-vkusov-250g,429,379,MERCI
